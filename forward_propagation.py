@@ -5,7 +5,7 @@ from Data_and_Structure import *
 print X.shape
 print Y.shape
 
-class Neaural_Network(object):
+class Neural_Network(object):
     def __init__(self):
         # Define Hyperparameter
         self.inputLayerSize = 2

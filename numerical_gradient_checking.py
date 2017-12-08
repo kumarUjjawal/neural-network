@@ -55,7 +55,7 @@ def comouteNumericalGradient(N,X,Y):
 
     return numgrad
 
-NN = Neaural_Network()
+NN = Neural_Network()
 numgrad = comouteNumericalGradient(NN,X,Y)
 numgrad
 

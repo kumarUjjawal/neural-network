@@ -20,7 +20,7 @@ def costFunctionPrime(self,X,Y):
 
     return DJDW1,DJDW2
 
-NN = Neaural_Network()
+NN = Neural_Network()
 
 cost1 = NN.costFunction(X,Y)
 

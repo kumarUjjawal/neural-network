@@ -36,7 +36,7 @@ class trainer(object):
         self.optimizationResult = _res
 
 
-NN = Neaural_Network()
+NN = Neural_Network()
 
 T = trainer(NN)
 
